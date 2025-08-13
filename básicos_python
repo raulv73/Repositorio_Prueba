@@ -1,0 +1,3 @@
+from math import pi
+a=pi
+print(f"El numero pi es : {a:.6f}")
